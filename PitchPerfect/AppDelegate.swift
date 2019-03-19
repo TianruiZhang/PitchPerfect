@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  PitchPerfect
 //
-//  Created by James Chang on 2019/3/10.
-//  Copyright © 2019 James Chang. All rights reserved.
+//  Created by Tianrui Zhang on 2019/3/10.
+//  Copyright © 2019 Tianrui Zhang. All rights reserved.
 //
 
 import UIKit
