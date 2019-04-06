@@ -25,10 +25,13 @@ class PlaySoundsViewController: UIViewController {
     var audioPlayerNode: AVAudioPlayerNode!
     var stopTimer: Timer!
     
+    
+    // MARK: - Map integers with button tags
     enum ButtonType: Int {
         case slow = 0, fast, chimpmunk, vader, echo, reverb
     }
     
+    // MARK: - Change the speed, pitch and effect of recorded voice
     @IBAction func playSoundForButton(_ sender: UIButton) {
         switch(ButtonType(rawValue: sender.tag)!) {
         case .slow:

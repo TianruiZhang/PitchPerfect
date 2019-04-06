@@ -15,6 +15,7 @@
 		1239C65122413E9500A0234E /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1239C65022413E9400A0234E /* Default-568h@2x.png */; };
 		1239C6532241477200A0234E /* PlaySoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1239C6522241477200A0234E /* PlaySoundsViewController.swift */; };
 		123D08012258D60E00004CCF /* playsoundsviewcontroller-audio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123D08002258D60E00004CCF /* playsoundsviewcontroller-audio.swift */; };
+		123D08032258E4FC00004CCF /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 123D08022258E4FB00004CCF /* Icon-60@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		1239C65022413E9400A0234E /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		1239C6522241477200A0234E /* PlaySoundsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaySoundsViewController.swift; sourceTree = "<group>"; };
 		123D08002258D60E00004CCF /* playsoundsviewcontroller-audio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "playsoundsviewcontroller-audio.swift"; sourceTree = "<group>"; };
+		123D08022258E4FB00004CCF /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-60@2x.png"; path = "../../../Downloads/pitch-perfect-assets/Icon-60@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				1239C64522341F9B00A0234E /* Assets.xcassets */,
 				1239C64722341F9B00A0234E /* LaunchScreen.storyboard */,
 				1239C64A22341F9B00A0234E /* Info.plist */,
+				123D08022258E4FB00004CCF /* Icon-60@2x.png */,
 				1239C6522241477200A0234E /* PlaySoundsViewController.swift */,
 				123D08002258D60E00004CCF /* playsoundsviewcontroller-audio.swift */,
 			);
@@ -133,6 +136,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1239C64922341F9B00A0234E /* LaunchScreen.storyboard in Resources */,
+				123D08032258E4FC00004CCF /* Icon-60@2x.png in Resources */,
 				1239C65122413E9500A0234E /* Default-568h@2x.png in Resources */,
 				1239C64622341F9B00A0234E /* Assets.xcassets in Resources */,
 				1239C64422341F9A00A0234E /* Main.storyboard in Resources */,
