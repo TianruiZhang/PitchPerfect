@@ -26,10 +26,6 @@ class RecordSoundsViewController: UIViewController, AVAudioRecorderDelegate {
         super.viewWillAppear(animated)
     }
     
-    override func viewDidAppear(_ animated: Bool) {
-        
-    }
-    
     func toggleRecording(isRecording: Bool) {
         stopRecordingButton.isEnabled = isRecording
         recordButton.isEnabled = !isRecording
